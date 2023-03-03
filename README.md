@@ -1,0 +1,1 @@
+Just scraps **faculty** details from [IRINS](https://irins.org/irins/) site.
